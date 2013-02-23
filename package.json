@@ -1,0 +1,14 @@
+{
+  "name": "tonyzbirthday",
+  "subdomain": "tonyzbirthday",
+  "scripts": {
+    "start": "index.js"
+  },
+  "version": "0.2.0",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "cradle": "0.6.4"
+  }
+}
